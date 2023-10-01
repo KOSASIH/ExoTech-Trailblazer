@@ -55,3 +55,41 @@ Before processing the text, we need to perform some preprocessing steps such as 
 To process the queries and generate responses, we will use the Hugging Face Transformers library, which provides pre-trained models for various NLP tasks. Specifically, we will use the question-answering pipeline to extract answers from the input text. 
 
 Here's an example of [how to use the pipeline](nlp_pipeline.py). 
+
+# Sample Queries and Responses
+
+Now, let's test the NLP system with some sample queries related to space exploration and colonization:
+
+## Query 1:
+
+Question: What is the purpose of space missions? 
+Answer: The purpose of space missions is to explore and study celestial bodies, gather scientific data, conduct experiments, and expand our understanding of the universe.
+
+## Query 2:
+
+Question: How do rockets work? Answer: Rockets work on the principle of Newton's third law of motion, which states that for every action, there is an equal and opposite reaction. By expelling high-speed propellant gases through a nozzle, rockets generate thrust that propels them forward.
+
+## Query 3:
+
+Question: What are some challenges in space colonization? 
+Answer: Some of the challenges in space colonization include the lack of a breathable atmosphere, extreme temperatures, limited resources, long-duration space travel, and the effects of microgravity on the human body.
+
+## Query 4:
+
+Question: What is the current status of Mars exploration? Answer: Currently, several space agencies and private companies are actively exploring Mars. Missions like NASA's Mars rovers, such as Curiosity and Perseverance, are studying the planet's geology, climate, and searching for signs of past or present life.
+
+## Query 5:
+
+Question: Can humans survive on other planets? 
+Answer: With the right technology and infrastructure, humans can potentially survive on other planets. However, it would require overcoming various challenges such as creating a sustainable habitat, generating food and water, and protecting against radiation.
+
+## Query 6:
+
+Question: What is the concept of terraforming? 
+Answer: Terraforming is the theoretical process of transforming a planet or moon to make it more Earth-like and habitable for humans. This could involve modifying the atmosphere, temperature, and surface conditions to support life.
+
+## Conclusion
+
+This NLP system provides accurate and informative responses to queries related to space exploration and colonization. By leveraging NLP techniques and pre-trained models, it can understand the context of the queries and generate appropriate answers. The system can be further enhanced by incorporating more domain-specific knowledge and training on a larger dataset.
+
+
