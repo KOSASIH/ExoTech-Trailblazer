@@ -140,6 +140,6 @@ This AI-based system provides an automated approach to analyze data from space t
 
 To create a deep learning model that can generate realistic simulations of planetary surfaces, we can use a generative adversarial network (GAN) architecture. GANs consist of two neural networks: a generator network that creates new samples, and a discriminator network that tries to distinguish between real and generated samples. By training these networks together, we can generate realistic simulations.
 
-Here's an example code implementation using the [TensorFlow library](
+Here's an example code implementation using the [TensorFlow library](tensorflow_library.py) 
 
 Please note that this code is a simplified example and may require additional modifications and optimizations based on your specific requirements and dataset. Additionally, you would need to preprocess the satellite imagery and geological data according to your needs before training the model.
