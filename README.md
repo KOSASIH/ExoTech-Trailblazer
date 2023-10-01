@@ -48,3 +48,8 @@ Import the [necessary libraries](libraries.py) for NLP processing.
 ## Preprocessing Text
 
 Before processing the text, we need to perform some preprocessing steps such as tokenization, stemming, and stop-word removal. The following code snippet demonstrates how to [preprocess the input text](preprocess_text.py) 
+
+
+## NLP Pipeline
+
+To process the queries and generate responses, we will use the Hugging Face Transformers library, which provides pre-trained models for various NLP tasks. Specifically, we will use the question-answering pipeline to extract answers from the input text. Here's an example of [how to use the pipeline](
