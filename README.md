@@ -34,3 +34,9 @@ Finally, we can generate a markdown report containing the predicted trajectory a
 The predicted trajectory for the given factors is 250,000 km.
 
 Please note that this is a simplified example and the actual calculations and simulations involved in predicting spacecraft trajectories are much more complex. This code serves as a starting point and can be further enhanced and customized based on specific requirements and constraints.
+
+# Natural Language Processing (NLP) System for Space Exploration and Colonization 
+
+## Setup 
+
+To use the NLP system, you need to install the required libraries and models. Run the following [commands to set up the environment](
