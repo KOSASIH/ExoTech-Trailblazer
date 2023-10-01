@@ -11,4 +11,4 @@ In this task, we will create a machine learning model that can predict the optim
 
 Next, we will [train](train_the_model.py) the machine learning model using linear regression.
 
-Now that our model is trained, we can use it to make predictions on new data. Let's define a function that takes in the factors (gravity, alignment, and fuel) and returns the [predicted trajectory].
+Now that our model is trained, we can use it to make predictions on new data. Let's define a function that takes in the factors (gravity, alignment, and fuel) and returns the [predicted trajectory](predict_trajectory.py).
