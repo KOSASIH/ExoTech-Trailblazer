@@ -43,4 +43,4 @@ To use the NLP system, you need to install the required libraries and models. Ru
 
 ## Importing Libraries
 
-Import the necessary libraries for NLP processing:
+Import the [necessary libraries](libraries.py) for NLP processing. 
