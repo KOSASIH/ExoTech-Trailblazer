@@ -47,4 +47,4 @@ Import the [necessary libraries](libraries.py) for NLP processing.
 
 ## Preprocessing Text
 
-Before processing the text, we need to perform some preprocessing steps such as tokenization, stemming, and stop-word removal. The following code snippet demonstrates how to [preprocess the input text](
+Before processing the text, we need to perform some preprocessing steps such as tokenization, stemming, and stop-word removal. The following code snippet demonstrates how to [preprocess the input text](preprocess_text.py) 
