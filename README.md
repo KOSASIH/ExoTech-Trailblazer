@@ -13,6 +13,6 @@ Next, we will [train](train_the_model.py) the machine learning model using linea
 
 Now that our model is trained, we can use it to make predictions on new data. Let's define a function that takes in the factors (gravity, alignment, and fuel) and returns the [predicted trajectory](predict_trajectory.py).
 
-We can now use this function to predict the optimal trajectory for a spacecraft. Let's say we have the following [values for the factors](values_for_the_factors.py) 
+We can now use this function to predict the optimal trajectory for a spacecraft. Let's say we have the following [values for the factors](values_for_the_factors.py). 
 
-We can call the predict_trajectory function with these values to get the [predicted trajectory](
+We can call the predict_trajectory function with these values to get the [predicted trajectory](predicted_trajectory.py). 
