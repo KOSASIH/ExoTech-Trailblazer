@@ -52,4 +52,5 @@ Before processing the text, we need to perform some preprocessing steps such as 
 
 ## NLP Pipeline
 
-To process the queries and generate responses, we will use the Hugging Face Transformers library, which provides pre-trained models for various NLP tasks. Specifically, we will use the question-answering pipeline to extract answers from the input text. Here's an example of [how to use the pipeline](nlp_pipeline.py). 
+To process the queries and generate responses, we will use the Hugging Face Transformers library, which provides pre-trained models for various NLP tasks. Specifically, we will use the question-answering pipeline to extract answers from the input text. 
+Here's an example of [how to use the pipeline](nlp_pipeline.py). 
