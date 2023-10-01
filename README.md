@@ -113,7 +113,7 @@ Before applying machine learning algorithms, the system performs the following d
 3. **Feature Extraction**: Extract relevant features from the data, such as brightness fluctuations or transit timings.
 
 ## Machine Learning Algorithm
-The system uses a machine learning algorithm to detect patterns indicative of exoplanets. One possible algorithm that could be used is the Random Forest algorithm. Here is an example implementation using the [scikit-learn library](
+The system uses a machine learning algorithm to detect patterns indicative of exoplanets. One possible algorithm that could be used is the Random Forest algorithm. Here is an example implementation using the [scikit-learn library](scikit_learn_library.py). 
 
 
 ## Statistical Analysis
