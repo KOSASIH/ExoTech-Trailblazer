@@ -16,3 +16,19 @@ Now that our model is trained, we can use it to make predictions on new data. Le
 We can now use this function to predict the optimal trajectory for a spacecraft. Let's say we have the following [values for the factors](values_for_the_factors.py). 
 
 We can call the predict_trajectory function with these values to get the [predicted trajectory](predicted_trajectory.py). 
+
+The output will be the predicted trajectory for the given factors.
+
+Finally, we can generate a markdown report containing the predicted trajectory along with any relevant calculations or simulations performed during the prediction process.
+
+# Trajectory Prediction Report
+
+## Factors 
+
+- Gravity: 9.8 m/s^2
+- Alignment: 0.5
+- Fuel: 1000 units
+
+## Prediction
+
+The predicted trajectory for the given factors is 250,000 km.
