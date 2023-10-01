@@ -44,3 +44,7 @@ To use the NLP system, you need to install the required libraries and models. Ru
 ## Importing Libraries
 
 Import the [necessary libraries](libraries.py) for NLP processing. 
+
+## Preprocessing Text
+
+Before processing the text, we need to perform some preprocessing steps such as tokenization, stemming, and stop-word removal. The following code snippet demonstrates how to [preprocess the input text](
