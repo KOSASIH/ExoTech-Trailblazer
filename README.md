@@ -39,4 +39,8 @@ Please note that this is a simplified example and the actual calculations and si
 
 ## Setup 
 
-To use the NLP system, you need to install the required libraries and models. Run the following [commands to set up the environment](
+To use the NLP system, you need to install the required libraries and models. Run the following [commands to set up the environment](NLP_system.py). 
+
+## Importing Libraries
+
+Import the necessary libraries for NLP processing:
