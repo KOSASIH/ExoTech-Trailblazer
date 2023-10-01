@@ -8,3 +8,5 @@ To use the [analyze_satellite_imagery](app.py)  function, you need to provide a 
 # Spacecraft Trajectory Prediction 
 
 In this task, we will create a machine learning model that can predict the optimal trajectory for a spacecraft during interplanetary travel. The model will take into account various factors such as gravitational forces, planetary alignments, and fuel consumption. Let's start by importing the [necessary libraries and data](necessary_libraries_and_data.py).
+
+Next, we will [train](  )the machine learning model using linear regression.
